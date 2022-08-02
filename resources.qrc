@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/effect">
+        <file>Sounds/c1</file>
+        <file>Sounds/c2</file>
+        <file>Sounds/c3</file>
+        <file>Sounds/ch</file>
+        <file>Sounds/d</file>
+        <file>Sounds/mv</file>
+        <file>Sounds/t1</file>
+        <file>Sounds/t2</file>
+        <file>Sounds/na</file>
+        <file>Sounds/&amp;</file>
+        <file>Sounds/ro</file>
+        <file>Sounds/t3</file>
+        <file>Sounds/t4</file>
+    </qresource>
+</RCC>
